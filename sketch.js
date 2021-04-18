@@ -94,7 +94,7 @@ function setup() {
 
 function draw(){
 
-    bgMusic.play();
+   // bgMusic.play();
 
 bluePlayer.velocityY = bluePlayer.velocityY + 2;
 
